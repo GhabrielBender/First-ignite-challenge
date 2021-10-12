@@ -9,6 +9,7 @@
     "test": "jest --watch-All"
   },
   "dependencies": {
+    "devtools": "^7.14.1",
     "react": "17.0.1",
     "react-native": "0.64.2",
     "react-native-iphone-x-helper": "^1.3.1",
@@ -28,6 +29,7 @@
     "babel-jest": "^26.6.3",
     "jest": "^26.6.3",
     "metro-react-native-babel-preset": "^0.64.0",
+    "react-devtools": "^4.19.2",
     "react-test-renderer": "17.0.1",
     "typescript": "^4.3.5"
   }
